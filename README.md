@@ -5,7 +5,7 @@
 * [Or visit my AWS](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/): This page also has summarization of my work.
 
 
-## Module 2
+## Module 2(https://classes.engineering.wustl.edu/cse330/index.php/Module_2)
 + PHP Calculator [visit](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m2/cal.php) [git](https://github.com/cse330-fall-2022/module2-individual-kbckbc)
 + PHP File server [visit](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m2g/login.php) [git](https://github.com/cse330-fall-2022/module2-group-module2-501026)
 
